@@ -1,2 +1,10 @@
 This is the second file created to keep track changes
 created in local repository
+basics commands:
+git init
+git branch
+git checkout
+git remote add origin url
+git clone
+made changes in remote repos need to reflect in local repo-git pull origin main/master
+push changes from local to remote rep0 - git push origin main
